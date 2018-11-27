@@ -1,5 +1,6 @@
 /*
     Scott Little
+    version 1.0
 */
 #include "pa1.h"
 
